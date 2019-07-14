@@ -1,0 +1,2 @@
+ÓÃ»§Ãû£ºgit config --global user.name "peng0611"
+ÃÜÂë£ºgit config --global user.email "1439136455@qq.com"
